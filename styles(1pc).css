@@ -1,0 +1,83 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(#A400B2, #240031);
+}
+
+nav{
+    text-align: right;
+}
+
+main{
+    color: white;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 12px;
+    background-color: #9C79FF;
+    border-radius: 10px;
+    text-shadow: black 0px 1px 1px;
+    position: relative;
+    top: 20px;
+    right: 12px;
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
+
+h1{
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+
+.golo{
+    background-image: linear-gradient(180deg, #5224D6 0%, #27097E 100%);
+    position: relative;
+    top: 30px;
+    left: 32px;
+    width: 650px;
+    height: 150px;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.answ{
+    background-image: linear-gradient(180deg, #5224D6 0%, #27097E 100%);
+    position: relative;
+    top: 30px;
+    left: 32px;
+    width: 650px;
+    height: 430px;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.butA{
+    background-image: linear-gradient(180deg, #9C79FF 0%, #4C2DA5 100%);
+    box-shadow: black 0px 5px 10px 1px;
+    text-decoration: none;
+    color: white;
+    height: 30px;
+    width: 110px;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    left: 250px;
+}
+
+div{
+    
+}
+
+.butA div{
+    
+}
